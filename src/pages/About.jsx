@@ -1,13 +1,13 @@
 import React from 'react'
 import Footer from '../components/Footer'
-import Animation from '../components/animation'
+// import Animation from '../components/animation'
 
 
 const About = () => {
   return (
    <>
    this is about page
-   <Animation/>
+{/*    <Animation/> */}
    <Footer/>
    </>
   )
